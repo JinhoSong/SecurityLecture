@@ -10,4 +10,6 @@ public class MessageController {
     public String mypage(){
         return "user/messages";
     }
+
+
 }
